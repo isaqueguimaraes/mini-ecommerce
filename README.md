@@ -1,4 +1,3 @@
-````markdown
 # 🛒 MiniEcommerce
 
 Aplicação de console em **C# / .NET 10** que simula uma loja virtual: catálogo de produtos, carrinho de compras com controle de estoque e checkout com baixa automática no estoque. O projeto conta com **testes unitários em xUnit** e histórico de commits seguindo o padrão **Conventional Commits**.
