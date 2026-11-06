@@ -283,5 +283,5 @@ git log --oneline
 
 ## 👥 Autores
 
-Isaque Guimarães
-Erick Souza
+- Isaque Guimarães
+- Erick Souza
