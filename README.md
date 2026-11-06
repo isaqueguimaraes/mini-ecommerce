@@ -281,7 +281,7 @@ git log --oneline
 
 ---
 
-## 👥 Autor
+## 👥 Autores
 
 Isaque Guimarães
-````
+Erick Souza
