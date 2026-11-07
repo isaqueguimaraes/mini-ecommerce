@@ -144,7 +144,7 @@ Nesse caso, o estoque de cada produto é decrementado e o carrinho é esvaziado.
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO_GITHUB>
+git clone https://github.com/isaqueguimaraes/mini-ecommerce.git
 ```
 
 ### 2. Acessar a pasta do projeto
